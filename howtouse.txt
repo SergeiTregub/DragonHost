@@ -1,0 +1,20 @@
+===========
+How to use?
+===========
+
+Welcome to python hosting project. Today it is called "DragonHost". Let's go!
+
+You should have python installed and added to path if you use Windows.
+
+Python preinstalled on some linux OS.
+
+
+Running main.py will ask you to use main.sh, because hosting doesn't work from .py format.
+
+Once hosting, type in browser "localhost:8080" if you don't know your IP. Then if it
+redirects you to directory listing, just click on index.html and your website will
+be shown.
+
+Hopefully this project will help you!
+
+If you want, you can modify..

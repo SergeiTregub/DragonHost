@@ -1,0 +1,13 @@
+Wonder how to view your website?
+
+Type in browser search bar
+
+localhost:8080
+
+Alternative link
+
+0.0.0.0:8080
+
+
+
+WARNING: For safety, we are using port 8080 to keep your local website safe.
