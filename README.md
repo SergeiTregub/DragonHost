@@ -8,3 +8,4 @@ Host websites using python. Well main.py will ask you to use main.sh btw
 Try editing index.html
 
 Works in linux only
+Clone using git or download zip
