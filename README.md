@@ -1,6 +1,8 @@
 # DragonHost
 Hosting local website. Using Python.
 
+WARNING! DragonHost's goal is to reach 2.3 update. Once reached, DragonHost will move to new LOCAL website hosting provider. Also uses python. https://www.python.org/
+
 # How to use
 Host websites using python. Well main.py will ask you to use main.sh btw
 
