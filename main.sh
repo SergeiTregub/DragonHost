@@ -3,7 +3,7 @@ echo WELCOME TO DRAGONHOST
 echo The Original Project by SergeiTregub on GitHub
 echo Local hosting websites.
 sleep 5
-echo Beta version detected. You may encounter bugs, some pages won't work. Use with caution.
+echo Beta version detected
 python welcome.py
 python read.py
 echo NOW ATTEMPTING TO HOST A LOCAL WEBSITE
