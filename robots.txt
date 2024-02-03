@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+# THE CODE WAS WRITTEN RANDOM.
