@@ -1,1 +1,1 @@
-print("Please use main.sh for localhost to be created.")
+print("Error. Please use main.sh to host.")
